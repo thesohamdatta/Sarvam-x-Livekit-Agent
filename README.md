@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/logo.png" alt="Sarvam LiveKit Voice Agent" width="640">
-</p>
+<img width="2734" height="1098" alt="logo" src="https://github.com/user-attachments/assets/07966c1f-ac8a-4ffe-976f-c15c0c78404d" />
+
 
 <h1 align="center">
   SARVAM <code>x</code> LIVEKIT
