@@ -2,9 +2,6 @@
 
 
 
-<h1 align="center">
-  SARVAM <code>x</code> LIVEKIT
-</h1>
 
 <p align="center">
   <strong>Real-Time Voice Agent</strong>
